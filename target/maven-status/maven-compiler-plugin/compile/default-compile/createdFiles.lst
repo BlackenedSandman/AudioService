@@ -1,0 +1,11 @@
+com/dutchrosemedia/controller/VoiceController.class
+com/dutchrosemedia/Main.class
+com/dutchrosemedia/service/PianoServiceImpl.class
+com/dutchrosemedia/service/VoiceService.class
+com/dutchrosemedia/service/PianoService.class
+com/dutchrosemedia/controller/SongController.class
+com/dutchrosemedia/domain/MusicClip.class
+com/dutchrosemedia/controller/PianoController.class
+com/dutchrosemedia/service/SongServiceImpl.class
+com/dutchrosemedia/service/SongService.class
+com/dutchrosemedia/service/VoiceServiceImpl.class
